@@ -1,4 +1,4 @@
-public class Main {
+public class ReplaceArrayFunctionMain {
 
   public static void main(String[] args) {
     FunctionUtils utils = new FunctionUtils();
